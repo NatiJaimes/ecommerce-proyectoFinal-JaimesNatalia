@@ -9,6 +9,7 @@ const MyProfile = () => {
     const navigation = useNavigation()
     const localId = useSelector(state => state.user.localId)
     const {data:user,isLoading} = useGetUserQuery({localId})
+
     if(isLoading) return <View><Text>Cargando</Text></View>
     
   return (
@@ -18,10 +19,10 @@ const MyProfile = () => {
         resizeMode='cover'
         style={styles.image}
       />
-      <SubmitButton title="Agregar imagen de perfil" onPress={()=>navigation.navigate("ImageSelector")} style={styles.button}/>
+      <SubmitButton title="Agregar imagen de perfil" onPress={()=>navigation.navigate("ImageSelector")}/>
       <SubmitButton title="Agregar localizacion" onPress={()=>{navigation.navigate("LocationSelector")}}/>
       <View>
-        <Text>{user?.address}</Text>
+        <Text style={styles.text}>Dirección: {user?.address}</Text>
       </View>
     </View>
   )
@@ -37,5 +38,8 @@ const styles = StyleSheet.create({
     image:{
         width:150,
         height:150
+    },
+    text:{
+      fontSize:16,
     }
 })

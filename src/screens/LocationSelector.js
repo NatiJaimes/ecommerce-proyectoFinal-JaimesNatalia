@@ -56,7 +56,7 @@ const LocationSelector = () => {
 
   return (
     <View style={styles.container}>
-        <Text>Direccion: {address}</Text>
+        <Text style={styles.text}>Direccion: {address}</Text>
         <MapPreview location={location}/>
         <SubmitButton title="Confirmar Ubicacion" onPress={handleConfirmLocation}/>
      </View>
@@ -69,5 +69,9 @@ const styles = StyleSheet.create({
         marginTop:100,
         alignItems:"center",
         gap:15
+    },
+    text:{
+        fontSize:16,
+        textAlign:"center"
     }
 })

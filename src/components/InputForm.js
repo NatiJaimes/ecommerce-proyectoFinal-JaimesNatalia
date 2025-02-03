@@ -18,25 +18,22 @@ const styles = StyleSheet.create({
         width:"90%",
         borderWidth:0,
         borderBottomWidth:3,
-        borderBottomColor:colors.accent,
+        borderBottomColor:colors.secondary,
         padding:2,
-        fontFamily:"Josefin",
         fontSize:14,
         marginHorizontal:"5%",
         marginVertical:10,
-        color:colors.lightGray
+        color:colors.secondary,
       },
       titleInput:{
         width:"90%",
         marginHorizontal:"5%",
         fontSize:16,
-        fontFamily:"Josefin",
-        color:colors.lightGray
+        color:colors.secondary,
       },
       error:{
         fontSize:16,
         color:"red",
-        fontFamily:"Josefin",
         fontStyle:"italic",
         marginLeft:20
       }

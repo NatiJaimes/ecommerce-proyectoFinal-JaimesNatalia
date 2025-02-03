@@ -22,7 +22,7 @@ const Header = ({title}) => {
       {navigate.canGoBack() ? <ArrowGoBack/> : null }
       <Text style={styles.title}>{title}</Text>
       <Pressable onPress={onLogout} style={styles.logout}>
-        <AntDesign name="logout" size={20} color={colors.lightGray} />
+        <AntDesign name="logout" size={20} color={colors.secondary} />
       </Pressable>
     </View>
   )

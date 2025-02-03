@@ -45,7 +45,9 @@ const ItemDetail = ({route}) => {
       <Text style={styles.title}>{product.title}</Text>
       <Text style={styles.description}>{product.description} - Stock: {product.stock} Unidades.</Text>
       <Text style={styles.price}>USD ${product.price}</Text>
-      <Counter quantity={quantity} increment={increment} decrement={decrement}/>
+      <View style={styles.counter}>
+        <Counter quantity={quantity} increment={increment} decrement={decrement}/>
+      </View>
       <Pressable style={styles.button}  onPress={handleAddproduct}>
           <Text style={styles.textButton}>Agregar al carrito</Text>
       </Pressable>
@@ -92,5 +94,8 @@ const styles = StyleSheet.create({
   textButton:{
     fontSize:22,
     color:colors.secondary,
+  },
+  counter:{
+    alignItems:"center",
   }
 })

@@ -1,1 +1,1 @@
-export const googleapi = ""
+export const googleapi = "AIzaSyA4FH1UerjxEXeTZGmrviiRgRcV8EFreuU"

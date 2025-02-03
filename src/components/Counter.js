@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
         gap:20,
       },
       button:{
-        backgroundColor:colors.accent,
+        backgroundColor:colors.primary,
         width:50,
         padding:10,
         borderRadius:5,
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
         alignItems:"center"
       },
       textButton:{
-        color:colors.lightGray,
+        color:colors.secondary,
         fontSize:20
       },
 })

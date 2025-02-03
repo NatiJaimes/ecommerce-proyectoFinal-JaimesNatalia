@@ -6,7 +6,6 @@ import { useGetProductsQuery } from '../services/shop'
 import LoadingSpinner from '../components/LoadingSpinner'
 
 
-
 const ProductsByCategory = ({route}) => {
 
 
@@ -40,7 +39,7 @@ const ProductsByCategory = ({route}) => {
     <View>
       <Search onChangeKeyword={(t) => setKeyword(t)}/>
       <FlatList
-      data={productsFiltered}
+      data={products}
       keyExtractor={item => item.id}
       renderItem={({item})=> (<CardProduct product={item}/>)}
       />
