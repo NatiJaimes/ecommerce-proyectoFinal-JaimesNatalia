@@ -1,0 +1,265 @@
+[
+    {
+        "id": 0,
+        "stock": 5,
+        "title": "Duskmourn: House of Horror Play Booster Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292594/MTGDSK_EN_DspBx_Play_01_03_1024x_inwh3l.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292654/MTGDSK_EN_DspBx_Play_01_02_nir0q0.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292414/MTGDSK_EN_DspBx_Play_02_01_ncavzr.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292594/MTGDSK_EN_DspBx_Play_01_03_1024x_inwh3l.png",
+        "description": "Caja con 36 Booster Packs y 1 Carta promo. Idioma Ingles.",
+        "price": 250.00,
+        "category": "magic"
+      },
+      {
+        "id": 1,
+        "stock": 30,
+        "title": "Duskmourn: House of Horror Play Booster Pack",
+        "img": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472484/MTGDSK_EN_Bstr_Play_01_02_ol2fss.png",
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472484/MTGDSK_EN_Bstr_Play_01_02_ol2fss.png",
+        "description": "Paquete de 14 cartas. Idioma Ingles.",
+        "price": 8.99,
+        "category": "magic"
+      },
+      {
+        "id": 2,
+        "stock": 5,
+        "title": "Foundations Play Booster Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294285/MTGFND_EN_DspBx_Play_01_02_1200x_h3cxe7.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294286/MTGFND_EN_DspBx_Play_02_03_bbyzyf.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+        "description": "Caja con 36 Booster Packs y 1 Carta promo. Idioma Ingles.",
+        "price": 190.00,
+        "category": "magic"
+      },
+      {
+        "id": 3,
+        "stock": 20,
+        "title": "Foundations Play Booster Pack",
+        "img": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294281/Magic-The-Gathering-Foundations-Play-Booster-Sleeve-14-Magic-Cards_rp20kf.png",
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294281/Magic-The-Gathering-Foundations-Play-Booster-Sleeve-14-Magic-Cards_rp20kf.png",
+        "description": "Paquete de 14 cartas. Idioma Ingles.",
+        "price": 9.99,
+        "category": "magic"
+      },
+      {
+        "id": 4,
+        "stock": 5,
+        "title": "Pokémon S&V: Surging Sparks Elite Trainer Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472508/images_dms0ko.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292783/91Ns5DtQ1ML_kerjgn.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292851/P9508_191-85953_10_dcaa9j.jpg"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472508/images_dms0ko.jpg",
+        "description": "Caja con 9 Booster Packs, 1 Carta Promo, Sleeves Tematicos. Idioma Ingles.",
+        "price": 59.99,
+        "category": "pokemon"
+      },
+      {
+        "id": 5,
+        "stock": 15,
+        "title": "Pokémon S&V: Surging Sparks Booster Pack",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472524/pokemon_surging_sparks_booster_dgoipi.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292920/51REXB8bUgL._AC_UF894_1000_QL80__dgvqji.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293247/61dc5a7916c5b203dce2997adb48437c9e7b8b983513d5e804d917d743f9f2fe_779x1427_cblakb.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293009/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Wrap-Alolan-Exeggutor-Stellar_EN-559x1024_bofwc0.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293088/Pokemon_TCG_Scarlet_Violet_E2_80_94Surging_Sparks_Booster_Wrap_Archaludon_kdjxih.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472524/pokemon_surging_sparks_booster_dgoipi.jpg",
+        "description": "Paquete de 10 cartas. Idioma Ingles.",
+        "price": 9.99,
+        "category": "pokemon"
+      },
+      {
+        "id": 6,
+        "stock": 8,
+        "title": "Pokémon S&V: Prismatic Evolutions Elite Trainer Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294387/s851815697977171198_p441_i1_w1080_ldpqxa.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294450/P10343_10-10025-101_02_x4knhm.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294385/P10343_100-10019_10_uuulkg.jpg"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294387/s851815697977171198_p441_i1_w1080_ldpqxa.png",
+        "description": "Caja con 9 Booster Packs, 1 Carta Promo, Sleeves Tematicos. Idioma Ingles.",
+        "price": 60.00,
+        "category": "pokemon"
+      },
+      {
+        "id": 7,
+        "stock": 20,
+        "title": "Pokémon S&V: Prismatic Evolutions Booster Pack",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294450/P10343_10-10025-101_02_x4knhm.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294451/593294_in_1000x1000_iw4qtd.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294453/Pokemon_TCG_Scarlet_Violet_E2_80_94Prismatic_Evolutions_Booster_Wrap_Leafeon_and_Glaceon_eos60m.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294455/Pokemon_TCG_Scarlet_Violet_E2_80_94Prismatic_Evolutions_Booster_Wrap_Vaporeon_Jolteon_Flareon_k7dbbq.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294456/Pokemon_TCG_Scarlet_Violet_E2_80_94Prismatic_Evolutions_Booster_Wrap_Espeon_and_Umbreon_lr6ce7.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294450/P10343_10-10025-101_02_x4knhm.jpg",
+        "description": "Paquete de 10 cartas. Idioma Ingles.",
+        "price": 9.99,
+        "category": "pokemon"
+      },
+      {
+        "id": 8,
+        "stock": 16,
+        "title": "Pokémon S&V: Prismatic Evolutions Mini Tin",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295166/peminiset_pdhor9.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295168/PokemonTCG-Scarlet_Violet-PrismaticEvolutions-MiniTin_wuvogg.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295170/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary_s1a38j.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295179/pok_mt_pe_espeon_tkbged.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295173/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary_rge4x1.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295172/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary_bi0bug.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295182/pok_mt_pe_leafeon_rcgx21.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295178/11_20241104_142400_0010_9e187c29-c58b-44bd-ac0c-ceb5d3810c76_lr6bim.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295223/pku10117-vapr_dktrmb.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295175/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary_cqkgbd.jpg"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295166/peminiset_pdhor9.png",
+        "description": "Pequeña lata que contiene 2 boosters, una moneda y una mini postal.",
+        "price": 14.99,
+        "category": "pokemon"
+      },
+      {
+        "id": 9,
+        "stock": 5,
+        "title": "One Piece - Wings of the Captain (OP-06) Booster Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293423/op2716222_2_mhhdhb.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293484/230176_1_1000x1000_kuvyyr.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293423/op2716222_2_mhhdhb.png",
+        "description": "Caja con 24 Booster Packs. Idioma Ingles.",
+        "price": 219.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 10,
+        "stock": 5,
+        "title": "One Piece - Wings of the Captain (OP-06) Booster Pack",
+        "img": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472555/booster_op60_dxhemk.png",
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472555/booster_op60_dxhemk.png",
+        "description": "Paquete de 12 cartas. Idioma Ingles.",
+        "price": 7.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 11,
+        "stock": 5,
+        "title": "One Piece - 500 Years in the Future (OP07) Booster Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294648/OP2724754_yyy3mv.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294650/op07-2_wrdrlt.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294648/OP2724754_yyy3mv.png",
+        "description": "Caja con 24 Booster Packs. Idioma Ingles.",
+        "price": 19.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 12,
+        "stock": 5,
+        "title": "One Piece - 500 Years in the Future (OP07) Booster Pack",
+        "img": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294649/OnePieceOP07500yearsinthefuturebustina_roccip.png",
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294649/OnePieceOP07500yearsinthefuturebustina_roccip.png",
+        "description": "Paquete de 12 cartas. Idioma Ingles.",
+        "price": 4.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 13,
+        "stock": 3,
+        "title": "One Piece - Two Legends (OP08) Booster Box",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295003/one-piece-card-game-op-08-two-legends_xex1gl.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295007/OP08-two-legends-booster-box-sealed_800x_ejltq8.jpg"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295003/one-piece-card-game-op-08-two-legends_xex1gl.png",
+        "description": "Caja con 24 Booster Packs. Idioma Ingles.",
+        "price": 19.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 14,
+        "stock": 25,
+        "title": "One Piece - Two Legends (OP08) Booster Pack",
+        "img": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295005/9420700cb458bc6b08978dd8ef242f1ac03eb9e8_8ad69f58-b761-42c2-9651-cc2fce188395_n3cobi.png",
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738295005/9420700cb458bc6b08978dd8ef242f1ac03eb9e8_8ad69f58-b761-42c2-9651-cc2fce188395_n3cobi.png",
+        "description": "Paquete de 12 cartas. Idioma Ingles.",
+        "price": 5.99,
+        "category": "one-piece"
+      },
+      {
+        "id": 15,
+        "stock": 5,
+        "title": "Dragon Shield Matte Sleeves - Blue",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472575/Dragon_20Shield_20Matte_20Sleeves_20-_20Blue_belpx3.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293689/dragon-shield-matte-blue_qwni9j.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472575/Dragon_20Shield_20Matte_20Sleeves_20-_20Blue_belpx3.png",
+        "description": "Paquete de 100 Folios de color Azul. Tamaño Estandar.",
+        "price": 19.99,
+        "category": "accesorios"
+      },
+      {
+        "id": 16,
+        "stock": 5,
+        "title": "Dragon Shield Matte Sleeves - Purple",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472592/Dragon_20Shield_20Matte_20Sleeves_20-_20Purple_jhtrwb.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293802/image_jqvrai.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472592/Dragon_20Shield_20Matte_20Sleeves_20-_20Purple_jhtrwb.png",
+        "description": "Paquete de 100 Folios de color Violeta. Tamaño Standard.",
+        "price": 19.99,
+        "category": "accesorios"
+      },
+      {
+        "id": 17,
+        "stock": 5,
+        "title": "Dragon Shield Matte Sleeves - Ruby",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472608/Dragon_20Shield_20Matte_20Sleeves_20-_20Ruby_cyc0zd.png",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293842/box_sleeve_flat-57pprwMZ_q0sris.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472608/Dragon_20Shield_20Matte_20Sleeves_20-_20Ruby_cyc0zd.png",
+        "description": "Paquete de 100 Folios de color Rojo (Ruby). Tamaño Standard.",
+        "price": 19.99,
+        "category": "accesorios"
+      },
+      {
+        "id": 18,
+        "stock": 10,
+        "title": "Dragon Shield StrongBox Purple",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294843/51nfksifCkL_ipogyo.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294845/image_rf0ti9.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294843/51nfksifCkL_ipogyo.jpg",
+        "description": "Deckbox color violeta con capacidad para almacenar hasta 100 cartas. Tamaño Standard",
+        "price": 11.99,
+        "category": "accesorios"
+      },
+      {
+        "id": 19,
+        "stock": 10,
+        "title": "Dragon Shield StrongBox Red",
+        "img": [
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294849/DragonShield-Strongbox100_-Rouge_mplr49.jpg",
+            "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294850/AT-20007-DS-STRONGBO--psYE8sn_m8meiw.png"
+        ],
+        "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294849/DragonShield-Strongbox100_-Rouge_mplr49.jpg",
+        "description": "Deckbox color rojo con capacidad para almacenar hasta 100 cartas. Tamaño Standard",
+        "price": 11.99,
+        "category": "accesorios"
+      }
+]

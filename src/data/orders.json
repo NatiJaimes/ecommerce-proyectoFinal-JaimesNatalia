@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "createdAt":1734057537,
+        "idUser":1,
+        "total":120000,
+        "products":[
+            {
+                "id": 0,
+                "stock": 5,
+                "title": "Duskmourn: House of Horror Play Booster Box",
+                "img": [
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292594/MTGDSK_EN_DspBx_Play_01_03_1024x_inwh3l.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292654/MTGDSK_EN_DspBx_Play_01_02_nir0q0.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292414/MTGDSK_EN_DspBx_Play_02_01_ncavzr.png"
+                ],
+                "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738292594/MTGDSK_EN_DspBx_Play_01_03_1024x_inwh3l.png",
+                "description": "Caja con 36 Booster Packs y 1 Carta promo. Idioma Ingles.",
+                "price": 250.00,
+                "category": "magic"
+            },
+            {
+                "id": 2,
+                "stock": 5,
+                "title": "Foundations Play Booster Box",
+                "img": [
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294285/MTGFND_EN_DspBx_Play_01_02_1200x_h3cxe7.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294286/MTGFND_EN_DspBx_Play_02_03_bbyzyf.png"
+                ],
+                "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+                "description": "Caja con 36 Booster Packs y 1 Carta promo. Idioma Ingles.",
+                "price": 190.00,
+                "category": "magic"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "createdAt":1734057000,
+        "idUser":1,
+        "total":130000,
+        "products":[
+            {
+                "id": 2,
+                "stock": 5,
+                "title": "Foundations Play Booster Box",
+                "img": [
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294285/MTGFND_EN_DspBx_Play_01_02_1200x_h3cxe7.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294286/MTGFND_EN_DspBx_Play_02_03_bbyzyf.png"
+                ],
+                "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294282/mtgfnd_en_dspbx_play_01_03_ugb4nc.png",
+                "description": "Caja con 36 Booster Packs y 1 Carta promo. Idioma Ingles.",
+                "price": 190.00,
+                "category": "magic"
+            },
+            {
+                "id": 15,
+                "stock": 5,
+                "title": "Dragon Shield Matte Sleeves - Blue",
+                "img": [
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472575/Dragon_20Shield_20Matte_20Sleeves_20-_20Blue_belpx3.png",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738293689/dragon-shield-matte-blue_qwni9j.png"
+                ],
+                "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1734472575/Dragon_20Shield_20Matte_20Sleeves_20-_20Blue_belpx3.png",
+                "description": "Paquete de 100 Folios de color Azul. Tamaño Estandar.",
+                "price": 19.99,
+                "category": "accesorios"
+            },
+            {
+                "id": 18,
+                "stock": 10,
+                "title": "Dragon Shield StrongBox Purple",
+                "img": [
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294843/51nfksifCkL_ipogyo.jpg",
+                    "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294845/image_rf0ti9.png"
+                ],
+                "thumbnail": "https://res.cloudinary.com/dsbdsjsqx/image/upload/v1738294843/51nfksifCkL_ipogyo.jpg",
+                "description": "Deckbox color violeta con capacidad para almacenar hasta 100 cartas. Tamaño Standard",
+                "price": 11.99,
+                "category": "accesorios"
+            }
+        ]
+    }
+]
