@@ -33,7 +33,7 @@ En el carrito de compras, se verán listados el/los material/es elegidos previam
 El botón Finalizar Compra al final de la pagina permite guardar la Orden de Compra en la base de datos.
 
 ### Sección Ordenes
-En la sección de Ordenes podremos visualizar el dato de la fecha y hora y el total del valor de cada orden de compra realizada.
+En la sección de Ordenes podremos visualizar el dato de la fecha y hora y el total del valor de cada orden de compra realizada. Al seleccionar una Orden, podremos visualizar los productos incluidos en ella.
 
 ### Perfil de Usuario
 En la sección del Perfil el usuario podrá cargar una foto de perfil a partir de las imagenes almacenadas en la galeria del dispositivo o activando la camara del mismo.
