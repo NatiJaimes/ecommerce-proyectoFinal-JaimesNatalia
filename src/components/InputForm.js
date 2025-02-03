@@ -1,6 +1,8 @@
 import { StyleSheet, Text, View,TextInput } from 'react-native'
 import { colors } from '../globals/colors'
+
 const InputForm = ({label,value, onChangeText,isSecure,error}) => {
+
   return (
     <View style={styles.inputContainer}>
         <Text style={styles.titleInput}>{label}</Text>
@@ -9,7 +11,9 @@ const InputForm = ({label,value, onChangeText,isSecure,error}) => {
     </View>
   )
 }
+
 export default InputForm
+
 const styles = StyleSheet.create({
     inputContainer:{
         width:"100%"

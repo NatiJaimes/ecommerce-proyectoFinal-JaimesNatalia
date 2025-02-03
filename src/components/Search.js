@@ -2,8 +2,7 @@ import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import Feather from '@expo/vector-icons/Feather';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { useState } from 'react';
-
-
+import { colors } from '../globals/colors';
 
 const Search = ({onChangeKeyword}) => {
 
@@ -30,10 +29,10 @@ const Search = ({onChangeKeyword}) => {
         <View style={styles.containerInput}>
             <TextInput value={textInput} style={styles.input} placeholder='Buscar' placeholderTextColor={"black"} onChangeText={(text)=>setTextInput(text)}/>
             <Pressable style={styles.button} onPress={search}>
-                <Feather name="search" size={25} color="black" />
+                <Feather name="search" size={25} color={colors.secondary} />
             </Pressable>
             <Pressable style={styles.button} onPress={removeSearch}>
-                <MaterialCommunityIcons name="window-close" size={25} color="black" />
+                <MaterialCommunityIcons name="window-close" size={25} color={colors.secondary} />
             </Pressable>
         </View>
         <Text style={styles.error}>{error ? error : ""}</Text>
@@ -49,13 +48,13 @@ const styles = StyleSheet.create({
         paddingTop:10,
     },
     containerInput:{
-        backgroundColor:"lightblue",
+        backgroundColor:"#00a6fb",
         flexDirection:"row",
         alignItems:"center",
         justifyContent:"center",
     },
     input:{
-        backgroundColor:"aqua",
+        backgroundColor:"#E2EAFC",
         borderRadius:4,
         margin:5,
         paddingLeft:10,

@@ -3,7 +3,6 @@ import SubmitButton from '../components/SubmitButton'
 import { useNavigation } from '@react-navigation/native'
 import { useGetUserQuery } from '../services/user'
 import { useSelector } from 'react-redux'
-import { colors } from '../globals/colors'
 
 const MyProfile = () => {
     const navigation = useNavigation()
