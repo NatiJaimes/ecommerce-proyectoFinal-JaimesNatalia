@@ -22,10 +22,10 @@ En la parte superior se cuenta con un buscador que permite filtrar por el nombre
 
 ### Detalle de los items
 Al seleccionar un producto, se puede visualizar los siguientes datos sobre el mismo:
-- Imagen de tamaño grande
-- Nombre
-- Descripción
-- Precio unitario
+- **Imagen de tamaño grande**
+- **Nombre**
+- **Descripción**
+- **Precio unitario**
 Tambien cuenta con un contador que permite aumentar o disminuir la cantidad a comprar y el botón correspondiente para agregar esos items al carrito de compras.
 
 ### Carrito de compras
