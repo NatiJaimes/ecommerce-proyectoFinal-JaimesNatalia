@@ -28,9 +28,9 @@ export default CardProduct
 const styles = StyleSheet.create({
     container:{
         backgroundColor:colors.primary,
-        margin:10,
+        margin:5,
         borderRadius:5,
-        padding:10,
+        padding:5,
         flexDirection:"row",
         gap:10,
         alignItems:"center"

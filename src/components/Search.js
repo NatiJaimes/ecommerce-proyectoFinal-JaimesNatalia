@@ -45,7 +45,7 @@ export default Search
 const styles = StyleSheet.create({
     container:{
         paddingHorizontal:10,
-        paddingTop:10,
+        paddingTop:5,
     },
     containerInput:{
         backgroundColor:"#00a6fb",
